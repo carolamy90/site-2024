@@ -1,13 +1,14 @@
-@charset “UTF-8”
+@charset "UTF-8";
+
 body
 {
-background-color:lightpink;
-color: cor;
+background-color:lightsalmon;
+color:black;
 font-size: 12pts;
 font-family: arial;
 }
 
-h.
+h1
 {
-color:;
+color:brown;
 }
