@@ -40,6 +40,22 @@ color:blue;
 text-decoration:none;
 }
 
+ul{
+    color: black;
+    font-size: 12pt;
+    font-family: arial;
+    text-align: center;
+    margin-right: 30px;
+}
+
+ol{
+    color: black;
+    font-size: 12pt;
+    font-family: arial;
+    text-align: center;
+    margin-right: 30px;
+}
+
 li
 {
 color: black;
@@ -47,4 +63,5 @@ font-size: 12pt;
 font-family: arial;
 text-align: center;
 list-style-type:none;
+
 }
