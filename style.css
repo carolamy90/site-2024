@@ -4,28 +4,47 @@ body
 {
 background-image: linear-gradient(to right, #f0a678, #f0d678);
 color:black;
-font-size: 12pts;
+font-size: 12pt;
 font-family: arial;
 text-align: center;
-margin: 0.5pts;
+text-decoration: none;
+margin: none;
+
 }
 
 h1
 {
 color:black;
-font-size: 30pts;
+font-size: 30pt;
 font-family: arial;
 }
 
 h2
 {
 color:black;
-font-size: 20pts;
+font-size: 20pt;
 font-family: arial;
 }
 
+h3
+{
+color:black;
+font-size: 12pt;
+font-family: arial;
+}
+
+
 a
 {
-    color: black;
-    text-decoration:none;
+color:blue;
+text-decoration:none;
+}
+
+li
+{
+color: black;
+font-size: 12pt;
+font-family: arial;
+text-align: center;
+list-style-type:none;
 }
