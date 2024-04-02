@@ -2,13 +2,13 @@
 
 body
 {
-background-image: linear-gradient(to top right, #f0a678, #f0d678);
+background-image: linear-gradient(to right, #f0a678, #f0d678);
 color:black;
 font-size: 12pt;
 font-family: arial;
-text-align: center;
 text-decoration: none;
 margin: none;
+text-align: center;
 
 }
 
