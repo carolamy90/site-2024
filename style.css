@@ -69,5 +69,11 @@ list-style-type:none;
 .impar{
     font-size: 16pt;
     font-family: arial;
-    background-color: crimson;
+    color: crimson;
+}
+
+.par{
+    font-size: 20;
+    font-family: verdana;
+    color: blue;
 }
