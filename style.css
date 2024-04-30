@@ -73,7 +73,14 @@ list-style-type:none;
 }
 
 .par{
-    font-size: 20;
+    font-size: 20pt;
     font-family: verdana;
     color: blue;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: aliceblue;
+    color:coral;
+    margin: 20pt;
 }
